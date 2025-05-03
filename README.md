@@ -4,7 +4,7 @@ This is a simple website project showcasing my CV (Curriculum Vitae) using only 
 
 ## Overview
 
-This website is one of the many Frontend projects available here [roadmap.sh](https://roadmap.sh/frontend/projects).
+This website is one of the many Frontend projects available here [roadmap.sh](https://roadmap.sh/frontend/projects). You can find more about this specific project by clicking on this [link](https://roadmap.sh/projects/single-page-cv).
 
 ## Features
 
